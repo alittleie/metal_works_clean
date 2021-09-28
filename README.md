@@ -4,8 +4,8 @@ Monterey Metal and Iron Works in San Antonio had shipping and receiving data tha
 ## MMI_GUI_V1.2.py
 Raw code for the GUI and process.
 
-##Data Formatting Tool V1.2.zip
+## Data Formatting Tool V1.2.zip
 Packaged application in zip file
 
-##Installation Instructions for Data Reformatting GUI.pdf
+## Installation Instructions for Data Reformatting GUI.pdf
 Shows how to "install" the application. 
