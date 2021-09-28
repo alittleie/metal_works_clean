@@ -5,7 +5,7 @@ Monterey Metal and Iron Works in San Antonio had shipping and receiving data tha
 Raw code for the GUI and process.
 
 ## Data Formatting Tool V1.2.zip
-Packaged application in zip file
+Packaged application in zip file.
 
 ## Installation Instructions for Data Reformatting GUI.pdf
 Shows how to "install" the application. 
